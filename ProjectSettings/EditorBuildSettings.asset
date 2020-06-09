@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Kitchen.unity
+    guid: afb15bf1f34774be7a6ca677ca19570a
+  - enabled: 1
+    path: Assets/minigame.unity
+    guid: 03274d642f4214d50a972f545a6bd2da
+  - enabled: 1
+    path: Assets/Menu.unity
+    guid: ce73228ed0eab6940a5f8ae041ceca29
+  - enabled: 1
+    path: Assets/Story/storyline.unity
+    guid: f521c247973564143aa3f25f665c0043
+  - enabled: 1
+    path: Assets/Character.unity
+    guid: 26bf8bbc78556984fb73216ca097747d
+  m_configObjects: {}
